@@ -1,3 +1,4 @@
+# Python file to detect facial emotions in real time, now I need to add the firebase code
 import cv2
 from keras.models import model_from_json
 import numpy as np
