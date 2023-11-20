@@ -4,4 +4,4 @@ A convolutional neural network (CNN) is a type of artificial neural network that
 ![image](https://github.com/Gorchon/FacialEmotionRecognitionCVN/assets/116988804/0c606c52-f203-47f7-9389-20a580eedcc4)
 
 
-In this case with the help of a CNN we are training a model with 70% of accuracy in order to get very aceptable results. 
+In this case with the help of a CNN we are training a model with 77% of accuracy in order to get very aceptable results. 
